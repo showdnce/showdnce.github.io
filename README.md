@@ -1,14 +1,19 @@
 <!DOCTYPE html>
 <html>
-    <body>
-        <h1><i><b>冠媺寶貝</b>的霸氣時刻</i></h1>
-        <h3>冠媺霸氣之不看鏡頭</h3>
-            <img src="https://i.ibb.co/G25ncxX/IMG-20240118-102116.jpg"height="400"/>
-        <h3>冠媺霸氣之瞪眼</h3>
-            <img src="../IMG_20240219_153921.jpg"height="400"/>
-        <h3>冠媺霸氣之瞪眼加指人</h3>
-            <img src="../IMG_20240219_153923.jpg"height="400"/>
-        <h3>冠媺霸氣之不削</h3>
-            <img src="../IMG_20240216_143220.jpg"height="400"/>
-    </body>
-</html>
+<body>
+
+<h1>HTML練習簿</h1>
+
+<h2>連結</h2>
+
+<p>連結前綴a url前加href</p>
+
+<a href="https://www.youtube.com/">youtube</a>
+
+<h2>圖片</h2>
+
+<p>圖片前綴img url前加src 名稱前加alt </p>
+
+<p>圖片大小 寬width 長height </p>
+
+<img src="https://tsundora.com/image/2021/03/genshin_1153.jpg" alt="Hutao" width="350" height="500">
